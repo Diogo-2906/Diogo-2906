@@ -20,9 +20,9 @@
 
 ## 📊 Estatísticas do GitHub
 
-![Diogo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Diogo-2906&show_icons=true&theme=dark&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api?username=Diogo-2906&show_icons=true&theme=dark" alt="GitHub Stats" />
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-2906&layout=compact&theme=dark&locale=pt-br)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-2906&layout=compact&theme=dark" alt="Top Languages" />
 
 ---
 

@@ -18,14 +18,6 @@
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-<img src="https://github-readme-stats.vercel.app/api?username=Diogo-2906&show_icons=true&theme=dark" alt="GitHub Stats" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-2906&layout=compact&theme=dark" alt="Top Languages" />
-
----
-
 ## 📁 Projetos em Destaque
 
 | Projeto | Descrição | Tecnologias |
@@ -44,6 +36,8 @@
 
 ## 🌐 Conecte-se comigo
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-ozeliero)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogoozeliero2@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diogo-2906)
 
 ---

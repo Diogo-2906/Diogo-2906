@@ -64,6 +64,7 @@ Perfeito, agora vou deixar seu README com **nível absurdo mesmo** — com anima
 <div align="center">
 
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=Diogo-2906&show_icons=true&theme=tokyonight&hide_border=true"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-2906&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>

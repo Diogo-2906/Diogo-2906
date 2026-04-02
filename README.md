@@ -1,6 +1,4 @@
-Perfeito, agora vou deixar seu README com **nível absurdo mesmo** — com animações, stats, visual moderno e cara de dev gringo 🔥
 
----
 
 # 👨‍💻 Diogo | Full Stack Developer in Progress
 

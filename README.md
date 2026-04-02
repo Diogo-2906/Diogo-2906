@@ -1,64 +1,146 @@
-Olá! Eu sou o Diogo 👋
+Perfeito, agora vou deixar seu README com **nível absurdo mesmo** — com animações, stats, visual moderno e cara de dev gringo 🔥
 
-🌍 Welcome / Bem-vindo!
+---
 
-🇧🇷 Português
+# 👨‍💻 Diogo | Full Stack Developer in Progress
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00F7FF&size=25&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;React+%7C+C%23+%7C+.NET;Always+learning+new+things;Building+cool+projects+🚀" />
+</p>
+
+---
+
+## 🌍 Welcome / Bem-vindo
+
+<table>
+<tr>
+<td width="50%">
+
+### 🇧🇷 Português
 
 🎓 Estudante de desenvolvimento de software
-💡 Explorando o mundo Full Stack com foco em React e C#
-🌱 Atualmente aprendendo: React, JavaScript, C#, Entity Framework
+💡 Focado em **Full Stack (React + C#)**
+🌱 Evoluindo constantemente
 
-🚀 Aqui você vai encontrar meus projetos, estudos e experimentos enquanto evoluo como desenvolvedor.
-Fique à vontade para explorar meus repositórios e deixar uma ⭐ nos projetos que você gostar!
+🚀 Aqui você vai ver minha evolução como dev através de projetos reais
 
-📫 Estou sempre aberto a aprender, trocar ideias e colaborar!
+🔥 Objetivo: me tornar um dev completo e trabalhar com tecnologia
 
-🇺🇸 English
+📫 Sempre aberto a aprender e colaborar
+
+</td>
+<td width="50%">
+
+### 🇺🇸 English
 
 🎓 Software Development Student
-💡 Exploring the Full Stack world with a focus on React and C#
-🌱 Currently learning: React, JavaScript, C#, Entity Framework
+💡 Focused on **Full Stack (React + C#)**
+🌱 Constantly improving
 
-🚀 Here you'll find my projects, studies, and experiments as I grow as a developer.
-Feel free to explore my repositories and leave a ⭐ if you like something!
+🚀 Here you'll see my growth through real projects
 
-📫 I'm always open to learning, sharing ideas, and collaborating!
+🔥 Goal: become a professional developer
 
----
+📫 Always open to learning and collaboration
 
-## 🛠️ Tecnologias & Ferramentas
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+</td>
+</tr>
+</table>
 
 ---
 
-## 📁 Projetos em Destaque
+## ⚡ Tech Stack
 
-| Projeto | Descrição | Tecnologias |
-|---------|-----------|-------------|
-| **site** | Projeto de site | JavaScript |
-| **AtividadeForJs** | Exercícios de JavaScript | HTML |
-| **Variaveis** | Fundamentos de C# | C# |
-| **ConversaoEVariaveis** | Conversão de tipos em C# | C# |
-| **Operadores** | Operadores em C# | C# |
-| **AgendaMedica** | Sistema de login com MVC | C#, Entity Framework |
-| **CurriculoReact** | Meu currículo em React | React |
-| **Imc** | Calculadora de IMC | JavaScript |
-| **Ex_Form** | Exercícios de formulários | JavaScript |
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=js,react,cs,dotnet,html,css,git,github,vscode" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Diogo-2906&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Diogo-2906&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🔥 Streak (consistência)
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=Diogo-2906&theme=tokyonight&hide_border=true"/>
+
+</div>
+
+---
+
+## 🚀 Projetos em Destaque
+
+| Projeto               | Descrição               | Stack      |
+| --------------------- | ----------------------- | ---------- |
+| 🧠 **AgendaMedica**   | Sistema com login e MVC | C#, EF     |
+| 💻 **CurriculoReact** | Currículo interativo    | React      |
+| 📊 **Imc**            | Calculadora de IMC      | JavaScript |
+| 📚 **AtividadeForJs** | Exercícios práticos     | JS         |
+| 🔢 **Fundamentos C#** | Base sólida             | C#         |
+
+---
+
+## 🧠 Atualmente estudando
+
+* ⚛️ React avançado
+* 🔗 Integração front + back
+* 🗄️ Banco de dados com Entity Framework
+* 🧱 Arquitetura de projetos
+
+---
+
+## 🎯 Próximos objetivos
+
+* Criar um projeto Full Stack completo
+* Fazer deploy de aplicações reais
+* Conseguir minha primeira oportunidade como dev 💼
 
 ---
 
 ## 🌐 Conecte-se comigo
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/diogo-ozeliero-63b6633b5/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:diogoozeliero2@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Diogo-2906)
+<div align="center">
+
+<a href="https://linkedin.com/in/diogo-ozeliero-63b6633b5/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:diogoozeliero2@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/Diogo-2906">
+  <img src="https://img.shields.io/badge/-GitHub-000?style=for-the-badge&logo=github"/>
+</a>
+
+</div>
 
 ---
 
-⭐️ **Sinta-se à vontade para explorar meus repositórios e deixar uma estrela nos projetos que gostar!** ⭐️
+## 🧩 Fun fact
+
+💡 Comecei programando e hoje já consigo criar projetos completos — e isso é só o começo.
+
+---
+
+## 💭 Filosofia
+
+> “Consistency beats talent.” 🚀
+
+---
+
+⭐ **Se curtir meu perfil, segue aí e acompanha minha evolução!**
+
+---

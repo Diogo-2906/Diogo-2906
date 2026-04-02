@@ -1,5 +1,7 @@
 Olá! Eu sou o Diogo 👋
+
 🌍 Welcome / Bem-vindo!
+
 🇧🇷 Português
 
 🎓 Estudante de desenvolvimento de software

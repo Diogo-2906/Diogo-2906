@@ -1,9 +1,26 @@
-# Olá! Eu sou o Diogo 👋
+Olá! Eu sou o Diogo 👋
+🌍 Welcome / Bem-vindo!
+🇧🇷 Português
 
-🎓 Estudante de desenvolvimento de software  
-💡 Explorando o mundo **Full Stack** com foco em **React** e **C#**  
-🌱 Atualmente aprendendo: **React**, **JavaScript**, **C#**, **Entity Framework**  
-📫 Fuso horário: UTC-12:00
+🎓 Estudante de desenvolvimento de software
+💡 Explorando o mundo Full Stack com foco em React e C#
+🌱 Atualmente aprendendo: React, JavaScript, C#, Entity Framework
+
+🚀 Aqui você vai encontrar meus projetos, estudos e experimentos enquanto evoluo como desenvolvedor.
+Fique à vontade para explorar meus repositórios e deixar uma ⭐ nos projetos que você gostar!
+
+📫 Estou sempre aberto a aprender, trocar ideias e colaborar!
+
+🇺🇸 English
+
+🎓 Software Development Student
+💡 Exploring the Full Stack world with a focus on React and C#
+🌱 Currently learning: React, JavaScript, C#, Entity Framework
+
+🚀 Here you'll find my projects, studies, and experiments as I grow as a developer.
+Feel free to explore my repositories and leave a ⭐ if you like something!
+
+📫 I'm always open to learning, sharing ideas, and collaborating!
 
 ---
 
